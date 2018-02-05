@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/fiona.wang/codes/rnGame/node_modules/react-native/React/Views/RCTMaskedView.m \
+  /Users/fiona.wang/codes/rnGame/node_modules/react-native/React/Views/RCTMaskedView.h \
+  /Users/fiona.wang/codes/rnGame/node_modules/react-native/React/Views/RCTView.h \
+  /Users/fiona.wang/codes/rnGame/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/fiona.wang/codes/rnGame/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/fiona.wang/codes/rnGame/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/fiona.wang/codes/rnGame/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/fiona.wang/codes/rnGame/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/fiona.wang/codes/rnGame/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
